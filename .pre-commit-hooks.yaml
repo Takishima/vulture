@@ -4,6 +4,6 @@
   entry: vulture
   description: Find unused Python code.
   types: [python]
-  pass_filenames: false
+  pass_filenames: true
   require_serial: true
   
